@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899940021689",
+    "project_id": "flash-chat-af01f",
+    "storage_bucket": "flash-chat-af01f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899940021689:android:2fd9c8c42f33aeed42f268",
+        "android_client_info": {
+          "package_name": "com.deltice.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899940021689-ugk930mo40pq22c042gcfuhavhjvnush.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOa_jtwnLV-f9Ih0V_zFdLgdkQba23PZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899940021689-ugk930mo40pq22c042gcfuhavhjvnush.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
