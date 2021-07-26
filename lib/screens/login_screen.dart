@@ -49,7 +49,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 //Do something with the user input.
               },
               decoration: kTextFieldDecoration.copyWith(
-                  labelText: 'Enter your password'),
+                  hintText: 'Enter your password'),
             ),
             SizedBox(
               height: 24.0,
